@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "justinsweb.",
+	"icon": "https://micro.blog/justinpecott/avatar.jpg",
+	"home_page_url": "https://justinsweb.com/",
+	"feed_url": "https://justinsweb.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://justinpecott.micro.blog/2022/12/23/currently-reading-how.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781612197494\">How to Do Nothing: Resisting the Attention Economy</a> by Jenny Odell 📚</p>\n<p>Started reading this right before all the bird related drama started. Needless to say I&rsquo;m failing at everything the book is about. Hoping to finish it off over the holidays and do better!</p>\n",
+				"content_text": "Currently reading: [How to Do Nothing: Resisting the Attention Economy](https://micro.blog/books/9781612197494) by Jenny Odell 📚\n\nStarted reading this right before all the bird related drama started. Needless to say I'm failing at everything the book is about. Hoping to finish it off over the holidays and do better!\n",
+				"date_published": "2022-12-23T16:21:03-08:00",
+				"url": "https://justinsweb.com/2022/12/23/currently-reading-how.html"
+			}
+	]
+}
